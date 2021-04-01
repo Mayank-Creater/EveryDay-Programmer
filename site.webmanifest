@@ -12,11 +12,6 @@
             "sizes": "384x384",
             "type": "image/png"
         }
-        {
-            "src": "https://1.bp.blogspot.com/-P9OdMEzDreo/YFrz8y-_vxI/AAAAAAAAC-Q/CcKij4_PgOQiGrk--eqijFCVJr-VeNN6QCNcBGAsYHQ/s320/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
     ],
     "theme_color": "#000000",
     "background_color": "#000000",

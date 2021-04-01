@@ -11,6 +11,11 @@
             "src": "https://1.bp.blogspot.com/-FqJaXSQJJ0Y/YGVoYRcmCII/AAAAAAAAC_8/uvq0Y8yIxIU3IsRF89YCfyY_y6chWcR3ACNcBGAsYHQ/s320/android-chrome-384x384.png",
             "sizes": "384x384",
             "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-yWXNvXkCiiI/YGVpmFDIbpI/AAAAAAAADAc/LOPFTyXKpdUx02wtjBx2Jrob0O94hXlKgCNcBGAsYHQ/s320/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ],
     "theme_color": "#000000",
